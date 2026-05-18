@@ -6,9 +6,9 @@ The academy runs an initiative called EasyTech Talent, a monthly data analytics 
 
 These projects are based on real-world datasets and provide opportunities to apply data analysis skills using tools such as:
 
-Excel
-Power BI
-SQL
+* Excel
+* Power BI
+* SQL
 
 Through these challenges, I am able to strengthen my skills in data cleaning, analysis, visualization, reporting, and problem-solving while working with actual datasets and business-focused questions.
 
