@@ -5,6 +5,17 @@ This project showcases a full end-to-end Power BI analytics solution designed to
 
 By combining data modeling, data transformation, DAX calculations, and thoughtful visualization design, the project highlights how analytics can uncover both performance opportunities and profitability risks in a retail business environment.
 
+## Dashboard Showcase
+
+### Data Modeling View
+![Data model view showing table relationships](Ecommerce_sales_performance_analysis_model_view.png)
+
+### Sales Performance Page
+![Sales performance dashboard page](Ecommerce_sales_performance_analysis_PowerBi_Dashboard_Sales_Performance_Page.png)
+
+### Customer Insight Page
+![Customer insight dashboard page](Ecommerce_sales_performance_analysis_PowerBi_Dashboard_Customer_Insight_Page.png)
+
 ## Executive Summary
 This dashboard was developed to help stakeholders quickly understand how the business was performing across sales, discounts, payment channels, and customer segments. The analysis revealed that promotional discounts were playing a major role in closing sales, but also creating margin pressure when applied at very high levels.
 
@@ -70,14 +81,3 @@ To extend the impact of this project, the next phase could include:
 ## Data Source
 - Sales Transactions Dataset
 - Source file: [ecommerce_dataset.xlsx](ecommerce_dataset.xlsx)
-
-## Dashboard Showcase
-
-### Data Modeling View
-![Data model view showing table relationships](Ecommerce_sales_performance_analysis_model_view.png)
-
-### Sales Performance Page
-![Sales performance dashboard page](Ecommerce_sales_performance_analysis_PowerBi_Dashboard_Sales_Performance_Page.png)
-
-### Customer Insight Page
-![Customer insight dashboard page](Ecommerce_sales_performance_analysis_PowerBi_Dashboard_Customer_Insight_Page.png)
